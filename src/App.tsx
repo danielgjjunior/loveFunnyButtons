@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import styles from './FunnyButtons.module.css';
 import backgroundImage from './background.jpg'; // Certifique-se de ter uma imagem de plano de fundo apropriada na mesma pasta
 
